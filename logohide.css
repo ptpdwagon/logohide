@@ -1,6 +1,6 @@
 .site-logo
 {
-  display: none;
+  display: none !important;
 }
 
 .main-menu
