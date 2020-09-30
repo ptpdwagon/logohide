@@ -5,6 +5,6 @@
     font-weight: bold;
     text-align: center;
     border-radius: 4px;
-    background-color: #ffffff;
-    border: thin solid #ffffff;
+    background-color: #ffffff !important;
+    border: thin solid #ffffff !important;
 }
