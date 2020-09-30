@@ -1,4 +1,10 @@
-.alert-bars {
-top: 0px;
-display: none !important;
+.alert-bar {
+    width: 400px;
+    margin: 5px auto;
+    padding: 0.2em;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: thin solid #ffffff;
 }
